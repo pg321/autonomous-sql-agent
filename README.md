@@ -1,4 +1,4 @@
-# Text-to-SQL Agent
+# Autonomous SQL & API Agent
 
 A natural language to SQL query agent powered by LangChain. Ask questions about your database in plain English and get accurate SQL queries and results.
 
@@ -26,7 +26,7 @@ Uses the [Chinook database](https://github.com/lerocha/chinook-database) - a sam
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kevinbfrank/text-to-sql-agent.git
+git clone https://github.com/pg321/autonomous-sql-agent.git
 cd text-to-sql-agent
 ```
 

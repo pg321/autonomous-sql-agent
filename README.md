@@ -27,6 +27,7 @@ Uses the [Chinook database](https://github.com/lerocha/chinook-database) - a sam
 1. Clone the repository:
 ```bash
 git clone https://github.com/pg321/autonomous-sql-agent.git
+cd autonomous-sql-agent
 cd text-to-sql-agent
 ```
 
